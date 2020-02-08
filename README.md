@@ -23,6 +23,6 @@ $ python vanitygen.py 123abc
 
 ## Notes
 
-Since ICON addresses are Hexes, only numbers 0-9 and letters a-f can be used. This process is CPU intesinve and can run in reasonable time for up to 6 characters.
+Since ICON addresses are Hexes, only numbers 0-9 and letters a-f can be used. This process is CPU intensive and can run in reasonable time for up to 6 characters.
 
 ![Vanitygen](https://i.imgur.com/F4tqXGF.png)
