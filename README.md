@@ -5,12 +5,12 @@ ICON Vanity Address Generator for Python
 
 This script requires iconsdk to run:
 ```
-$ pip install iconsdk
+pip install iconsdk
 ```
 
 Download the script:
 ```
-$ https://raw.githubusercontent.com/eublockmove/icon-vanitygen-py/master/vanitygen.py
+https://raw.githubusercontent.com/eublockmove/icon-vanitygen-py/master/vanitygen.py
 ```
 
 ## Use
@@ -18,7 +18,7 @@ $ https://raw.githubusercontent.com/eublockmove/icon-vanitygen-py/master/vanityg
 To look for a vanity address, simply run the script with input variable:
 
 ```
-$ python vanitygen.py 123abc
+python vanitygen.py 123abc
 ```
 
 ## Notes
